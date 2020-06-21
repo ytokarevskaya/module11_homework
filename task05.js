@@ -1,0 +1,1 @@
+const elevation = (a, b) => console.log(a ** b);
